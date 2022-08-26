@@ -1,2 +1,2 @@
-# JS-Project
+## JS-Project
 Kodluyoruz first javascript project
